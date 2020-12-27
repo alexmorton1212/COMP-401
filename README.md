@@ -1,2 +1,5 @@
-# COMP 401: Foundations of Programming
-## Assignments from COMP 401 at UNC
+## COMP 401: Foundations of Programming
+
+This repository includes coursework from COMP 401 at UNC-Chapel Hill taught by Ketan Mayer-Patel. Assignments were designed by him and other contributors (link to the original class repository listed below, as well as KMP's github).
+
+Class topics included: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions.
