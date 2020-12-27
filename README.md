@@ -1,3 +1,2 @@
-# COMP401
-
-Assignments from COMP 401 at UNC
+# COMP 401: Foundations of Programming
+## Assignments from COMP 401 at UNC
